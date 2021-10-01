@@ -23,5 +23,12 @@ public class OperadoresAritmeticos {
 			int ar = (int) Math.round(y);
 			System.out.println(ar);
 		*/
+		
+		/*
+		 * Pega os valores determinado, de x até y...*/
+			double ale = Math.random();
+			int n = (int) (15 + ale * (50-15));
+			System.out.println(n);
+		
 	}
 }
